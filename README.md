@@ -6,7 +6,7 @@ Join me on my journey of modding my Anycubic Vyper.
 - [ ] V6 Hotend
 - [ ] Custom Cooling
 - [ ] Custom Tool Head
-- [ ] Custom Derict Drive Extruder
+- [ ] Custom Derict Drive Extruder using The Papilio
 - [ ] KecinAkaSam's KlackEnder Probe
 ## Motion System
 - [ ] Liner rail
